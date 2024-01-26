@@ -1,3 +1,9 @@
+/* 1° Codifique as entidades do sistema (Editora e Livro):
+
+b) No arquivo Livro.ts, criar a classe Livro, composta dos
+campos: codigo e codEditora, numéricos, título e resumo,
+ambos do tipo texto, e autores, como um vetor de texto*/
+
 class Livro {
     public codigo: number;
     public codEditora: number;
